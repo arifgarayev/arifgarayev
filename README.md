@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I'm a Software Developer 🛠️ with a wealth of expertise in solving real-world challenges. With a strong foundation in computer science, my proficiency lies in utilising Python, C, JavaScript, C#, SQL, and NoSQL which enables to develop solutions that are tailored to specific business needs.</p>
+<p align="center">I'm a Software Developer 🛠️ with a wealth of expertise in solving real-world challenges. With a strong foundation in computer science, my proficiency lies in Python, C, JavaScript, C#, SQL, and NoSQL which enables to develop solutions that are tailored to specific business needs.</p>
 
 ###
 

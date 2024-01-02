@@ -96,7 +96,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/arifgarayev/arifgarayev/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/arifgarayev/arifgarayev/blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+
 
 ###
 

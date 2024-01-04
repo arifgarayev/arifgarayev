@@ -94,12 +94,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
-
-<picture>
+<!-- <picture> -->
 <!--   https://raw.githubusercontent.com/arifgarayev/arifgarayev/output/github-contribution-grid-snake.svg -->
-  <img alt="github-snake" src="https://raw.githubusercontent.com/arifgarayev/arifgarayev/output/github-contribution-grid-snake.svg" />
-</picture>
+<!--   <img alt="github-snake" src="https://raw.githubusercontent.com/arifgarayev/arifgarayev/output/github-contribution-grid-snake.svg" /> -->
+<!-- </picture> -->
 
 ###
 

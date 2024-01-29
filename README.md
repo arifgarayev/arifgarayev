@@ -1,6 +1,6 @@
-Hi there 👋 I'm Arif Garayev, with over five years of Software Engineering experience at companies like [ACM](https://www.acm.org/) and [Bolt.eu](https://bolt.eu)
+Hi there 👋 I'm Arif Garayev, with over 5 years of Software Engineering experience at companies like [ACM](https://www.acm.org/) and [Bolt.eu](https://bolt.eu)
 
-My proficiency in Python, C, JavaScript, C#, SQL, and NoSQL enables to develop solutions for specific business needs. I also enjoy tinkering with electronics, hardware hacking, and software development in general.
+My Software Engineering experience lies in implementing scalable distributed systems with high performance. I have a strong foundation in Data Structures and Algorithms by developing optimized code aimed at reducing complexity.
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/garayevarif/) for a more detailed description of my full work experience, education and certification. You can get in touch with me by email at [garayevarif@gmail.com](mailto:garayevarif@gmail.com)
 

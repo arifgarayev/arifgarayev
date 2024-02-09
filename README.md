@@ -1,4 +1,4 @@
-Hi there 👋 I'm Arif Garayev, with over 5 years of Software Engineering experience at companies like [ACM](https://www.acm.org/) and [Bolt.eu](https://bolt.eu)
+Hi there 👋 I'm Arif Garayev, with over 3 years of Software Engineering experience at companies like [ACM](https://www.acm.org/) and [Bolt.eu](https://bolt.eu)
 
 My Software Engineering experience lies in implementing scalable distributed systems with high performance. I have a strong foundation in Data Structures and Algorithms by developing optimized code aimed at reducing complexity.
 

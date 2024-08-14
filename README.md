@@ -81,7 +81,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/garayevarif/) for a mor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins logo"  />
   <img width="12" />

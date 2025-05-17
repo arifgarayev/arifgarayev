@@ -1,7 +1,5 @@
 Hi there 👋 I'm Arif Garayev, a Senior Software Engineer with over 6 years of experience specializing in backend development, cloud architectures, and microservices design. I have worked across multiple domains, including HealthTech, E-commerce, Blockchain, Enterprise Software, ClimateTech, EnergyTech, contributing to the design and implementation of scalable, high-performance, and resilient systems.
 
-Please find me on [LinkedIn](https://www.linkedin.com/in/garayevarif/) for a more detailed description of my experience, education and certification. Do not hesitate, to get in touch with me via email at [garayevarif@gmail.com](mailto:garayevarif@gmail.com)
-
 ###
 
 <h3 align="center">🛠️ My Tech Stack</h3>

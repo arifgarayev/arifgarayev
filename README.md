@@ -1,6 +1,4 @@
-Hi there 👋 I'm Arif Garayev, with over 4 years of Software Engineering experience at companies like [ACM](https://www.acm.org/) and [Bolt.eu](https://bolt.eu)
-
-My Software Engineering experience lies in implementing scalable distributed systems with high performance. I have a strong foundation in Data Structures and Algorithms by developing optimized code focusing to reduce complexity.
+Hi there 👋 I'm Arif Garayev, a Senior Software Engineer with over 6 years of experience specializing in backend development, cloud architectures, and microservices design. I have worked across multiple domains, including HealthTech, E-commerce, Blockchain, Enterprise Software, ClimateTech, EnergyTech, contributing to the design and implementation of scalable, high-performance, and resilient systems.
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/garayevarif/) for a more detailed description of my experience, education and certification. Do not hesitate, to get in touch with me via email at [garayevarif@gmail.com](mailto:garayevarif@gmail.com)
 
@@ -115,7 +113,7 @@ Please find me on [LinkedIn](https://www.linkedin.com/in/garayevarif/) for a mor
   <a href="mailto:garayevarif@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://t.me/garayevarif" target="_blank">
+  <a href="https://t.me/arifgarayev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
